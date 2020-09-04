@@ -1,0 +1,36 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: yellow;
+}
+p {
+  color: red;
+}
+#text1{
+	color : #20dcc2;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#text2{
+	color : #124206;
+	font-size: 20px;
+	font-style: italic;
+}
+
+.text3{
+	color : #5113ca;
+	font-size: 8px;
+	font-style: italic;
+}
+
+.tb table{
+	width : 100%;
+	border: 1px solid black;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
